@@ -2,3 +2,12 @@ baseURL: https://sultanmingkamanad.netlify.app/
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hello there
+    Content: Welcome, this is an amazing website using hugo
+
+  socialIcons:
+    - name: github
+      url: github.com
